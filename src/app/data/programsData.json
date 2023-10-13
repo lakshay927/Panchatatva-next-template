@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "image": "/group.svg",
+        "title" : "Weight management"
+    },
+    {
+        "id": 2,
+        "image": "/nounheartcare4917664-1.svg",
+        "title" : "Cardiac Care"
+    },
+    {
+        "id": 3,
+        "image": "/vector6.svg",
+        "title" : "Skin Care"
+    },
+    {
+        "id": 4,
+        "image": "/group1.svg",
+        "title" : "Diabetes management"
+    },
+    {
+        "id": 5,
+        "image": "/group2.svg",
+        "title" : "Allergy Care"
+    },
+    {
+        "id": 6,
+        "image": "/group-1000001866.svg",
+        "title" : "Hormonal Care"
+    },
+    {
+        "id": 7,
+        "image": "/group3.svg",
+        "title" : "Stress Management"
+    },
+    {
+        "id": 8,
+        "image": "/vector7.svg",
+        "title" : "Pain management"
+    },
+    {
+        "id": 9,
+        "image": "/vector8.svg",
+        "title" : "Pregnancy Care"
+    },
+    {
+        "id": 10,
+        "image": "/noundetox1884252-1.svg",
+        "title" : "Detoxification"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {"id": 1,
+    "title": "Evidenced Based Medicine",
+    "content": "Our approach is guided by the best available research data, balanced with the doctor's judgement and patient's values.",
+    "image": "/group-1000001798.svg"
+    },
+    {"id": 2,
+    "title": "Individualized programs",
+    "content": "Each one of us being different with regards to the body type, mindset, likes and dislikes, our programs are designed to meet individual requirements and goals. Not just weight loss, but we believe in overall health, managing the chronic diseases and restoring the factor of wellness.",
+    "image": "/group-1000001801.svg"
+    },
+    {"id": 3,
+    "title": "Virtual programs",
+    "content": "We have something for all those living far away or running abusy life. All you need to do is book an appointment with our doctors and we shall reach back to you as soon as we can with our online program details and help you deal with it over an audio/video call.",
+    "image": "/group-1000001802.svg"
+    },
+    {"id": 4,
+    "title": "No medicines or supplements used",
+    "content": "Our approach is purely based on an individual's lifestyle and the connection between Mind-Body-Soul. It is drugless, safe and effective",
+    "image": "/group-1000001799.svg"
+    }
+]

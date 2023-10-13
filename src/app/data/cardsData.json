@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "AHAAR",
+        "content": "Food - It is not about eating less or counting your calories but eating the right kind of food at the right time in a right way. Diet is considered to be one of the Upastambha of life and the greatest medicine. It has a prime role in maintaining health and treating various diseases.",
+        "image": "/icon.svg"
+    },
+    {
+        "id": 2,
+        "title": "VIHAAR",
+        "content": "Exercise - Regular exercise is known to improve circulation, strength, and endurance. It helps you to relax mentally and have a sound sleep. It also improves digestion and elimination",
+        "image": "/icon1.svg"
+    },
+    {
+        "id": 3,
+        "title": "NIDRA",
+        "content": "Sleep - It is not about sleeping for 8 hours but about how well you are sleeping, which is possible only when the mind completely dissociates itself from the senses. Quality sleep recharges the mind, repairs the body and nourishes the soul.",
+        "image": "/icon2.svg"
+    },
+    {
+        "id": 4,
+        "title": "DHYANA",
+        "content": "Mindfulness - Yoga comprises of several practices, of which Dhyana means pure meditation to keep the mind at peace and stress free. Stress increases the risk of conditions like obesity, heart disease, diabetes, depression, gastrointestinal problems, and asthma.",
+        "image": "/icon3.svg"
+    }
+]
